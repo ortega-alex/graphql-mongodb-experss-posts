@@ -1,0 +1,6 @@
+.eslintignore
+.eslintrc.json
+.gitignore
+.prettierignore
+.prettierrc
+dist
